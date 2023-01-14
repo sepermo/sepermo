@@ -4,8 +4,8 @@
   experience in different programming languages.
 </h3>
 
-- 🔭 I’m currently working on [QR code component](https://github.com/jhoan636/qr-code-component-main)
-
+<!-- - 🔭 I’m currently working on [QR code component](https://github.com/jhoan636/qr-code-component-main)
+ -->
 - 🌱 I’m currently learning *MongoDb, Node, Express*
 
 <h3 align="left">Connect with me:</h3>
