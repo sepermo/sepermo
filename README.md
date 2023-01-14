@@ -6,33 +6,33 @@
 
 - 🔭 I’m currently working on [QR code component](https://github.com/jhoan636/qr-code-component-main)
 
-- 🌱 I’m currently learning *Docker, AWS*
+- 🌱 I’m currently learning *MongoDb, Node, Express*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://github.com/jhoan636" target="blank"
+    <a href="https://github.com/sepermo" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="https://github.com/jhoan636"
+      alt="sepermo"
       height="30"
       width="40"
   /></a>
-  <a href="https://twitter.com/jhoanlondoo7" target="blank"
+  <a href="https://twitter.com/JuanSeb49625437"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="jhoanlondoo7"
+      alt="sepermo"
       height="30"
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/jhoan-esteban-londo%c3%b1o-escobar-189646145/"
+    href="https://www.linkedin.com/in/juan-sebastian-perez-morales-7b7282231/"
     target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/jhoan-esteban-londo%c3%b1o-escobar-189646145/"
+      alt="sepermo"
       height="30"
       width="40"
   /></a>
@@ -82,30 +82,6 @@
       height="37"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -120,14 +96,6 @@
       alt="spring"
       width="35"
       height="35"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
-      width="40"
-      height="40"
     />
   </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
